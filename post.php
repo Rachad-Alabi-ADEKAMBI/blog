@@ -9,3 +9,4 @@ if (isset($_GET['id']) && $_GET['id'] > 0) {
 else {
     echo 'Erreur : aucun identifiant de billet envoyé';
 }
+
